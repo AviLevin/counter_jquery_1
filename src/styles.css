@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("https://media.istockphoto.com/photos/palm-leaf-shadow-on-sand-top-view-copy-space-picture-id1302218368?k=20&m=1302218368&s=612x612&w=0&h=X-9WMntNKEAyKm7Iu3jp8ssUk794tib1E3wiARYLNZg=");
+  background-size: cover;
+  background-position: center;
+
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  margin: 5px;
+}
+.title {
+  color: #3b5998;
+  font-weight: bolder;
+}
